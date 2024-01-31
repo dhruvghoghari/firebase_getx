@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293825632708",
+    "project_id": "getxlern",
+    "storage_bucket": "getxlern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293825632708:android:df00188cdb9ed526b0ac91",
+        "android_client_info": {
+          "package_name": "com.example.firebase_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpPoLgWIdTLNW1HkcQFOndjt8FHaMCBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
